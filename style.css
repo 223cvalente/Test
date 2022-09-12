@@ -2,3 +2,15 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+h1{
+  color: blue;
+  text-align:center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+.button{
+  color: #00ff11;
+  text-align: center;
+  
+}
